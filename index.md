@@ -2,6 +2,7 @@
 title: funny games
 author: someone and somebody
 date: 2018-05-11
+description: games you should not miss
 tags: games
 ---
 
