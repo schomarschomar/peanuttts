@@ -1,3 +1,3 @@
 # peanuttts
 
-# funny games
+funny games
