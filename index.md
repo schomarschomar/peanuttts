@@ -17,5 +17,5 @@ tags: games
 
 ## battle royale games
 
-* player unknowns battlegrounds (pubg) [lol] (https://m.youtube.com/watch?v=OtOci3MCa1Q)
+* player unknowns battlegrounds (pubg) [lol](https://m.youtube.com/watch?v=OtOci3MCa1Q)
 * fortnite battle royale [hacks](https://m.youtube.com/watch?v=TkJBKnHWTDM)
