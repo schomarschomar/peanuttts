@@ -21,5 +21,5 @@ tags: games
 * fortnite battle royale [hacks](https://m.youtube.com/watch?v=TkJBKnHWTDM)
 
 ## open world games
-* witcher 3
-* metal gear solid: the phantom pain
+* witcher 3 [witch](http://thewitcher.com/en/witcher3)
+* metal gear solid: the phantom pain [scary](https://m.youtube.com/watch?v=clV3iKNc0XU)
