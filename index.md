@@ -1,6 +1,6 @@
 ---
 title: funny games
-author: someone
+author: someone and somebody
 date: 2018-05-11
 tags: games
 ---
@@ -19,3 +19,7 @@ tags: games
 
 * player unknowns battlegrounds (pubg) [lol](https://m.youtube.com/watch?v=OtOci3MCa1Q)
 * fortnite battle royale [hacks](https://m.youtube.com/watch?v=TkJBKnHWTDM)
+
+## open world games
+* witcher 3 [witch](http://thewitcher.com/en/witcher3)
+* metal gear solid: the phantom pain [scary](https://m.youtube.com/watch?v=clV3iKNc0XU)
