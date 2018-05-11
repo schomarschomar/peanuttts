@@ -24,3 +24,18 @@ tags: games
 ## open world games
 * witcher 3 [witch](http://thewitcher.com/en/witcher3)
 * metal gear solid: the phantom pain [scary](https://m.youtube.com/watch?v=clV3iKNc0XU)
+
+## strategy games 
+
+### turn based strategy 
+
+*civ 6 [speed](https://m.youtube.com/watch?v=QWHMl6UXw1Y)
+
+### real time strategy  (rts)
+
+*
+
+### moba
+
+*league of legends (lol) [brains](https://m.youtube.com/watch?v=AeLoAXE8h_s)
+*dota 2 [mehr brains](https://m.youtube.com/watch?v=xdqIKeeGeBw)
