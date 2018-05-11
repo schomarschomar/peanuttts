@@ -4,4 +4,4 @@ funny games
 
 # links
 
-https://schomarschomar.github.io/peanuttts/
+https://FreakN00b.github.io/peanuttts/
