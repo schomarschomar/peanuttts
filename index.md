@@ -2,13 +2,15 @@
 title: funny games
 author: someone and somebody
 date: 2018-05-11
-description: games you should not miss
+description: games you should not misses
 tags: games
 ---
 
 # welcome
+**do __not trust these recommendations!!
 
 # games
+
 
 ## fps games
 
