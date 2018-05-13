@@ -1,4 +1,4 @@
----
+p---
 title: funny games
 author: someone and somebody
 date: 2018-05-11
