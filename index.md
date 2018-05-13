@@ -37,5 +37,5 @@ tags: games
 
 ### moba
 
-*league of legends (lol)[brains](https://m.youtube.com/watch?v=AeLoAXE8h_s)
-*dota 2 [mehr brains](https://m.youtube.com/watch?v=xdqIKeeGeBw)
+* league of legends (lol)[brains](https://m.youtube.com/watch?v=AeLoAXE8h_s)
+* dota 2 [mehr brains](https://m.youtube.com/watch?v=xdqIKeeGeBw)
